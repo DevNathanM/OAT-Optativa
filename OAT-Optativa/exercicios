@@ -1,0 +1,15 @@
+1-Em quantas e quais partes está dividido seu layout?
+R - header , menu ,main
+
+2-Quais elementos HTML utilizou para construir o formulário?
+R - divs,ul,li,input,button
+
+3-O que utilizou para centralizar o formulário?
+R - text-align: center; dentro do class .main com id formulario
+
+4-O que é o CSS Grid Layout e o que ele nos permite criar?
+R-É um sistema bidimensional de layout baseado em grade que visa fazer nada menos do que mudar completamente a maneira como projetamos interfaces de usuário baseadas em grade.
+
+5-O que são Media Queries?Você utilizou neste projeto?Por qual motivo?
+R-Media Queries é a utilização de Media Types com uma ou mais expressões envolvendo características de uma media para definir formatações para diversos dispositivos. O browser ou a aplicação lê as expressões definidas na query, caso o dispositivo se encaixe nestas requisições, o CSS será aplicado.
+Não utilize.Foi utilizado somente o Grid.
